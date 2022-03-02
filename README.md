@@ -65,6 +65,10 @@ VIDEOS:
 
 CONCLUSIONES:
 
+Podemos concluir que en el presente deber se puso en practica todo lo aprendido sobre las reactancias con respecto a circuitos RLC, ademas se estudio las resonancias las cuales
+
+normalmente son iguales asi tambien estudiamos la impedancia en estos circuitos
+
 BIBLIOGRAFÍA:
 
 Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson Prentice Hall.

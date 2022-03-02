@@ -63,6 +63,10 @@ capitulo 18
 
 VIDEOS:
 
+https://www.youtube.com/watch?v=2F5mfybvoFw
+
+https://www.youtube.com/watch?v=8uipsyDe04U
+
 CONCLUSIONES:
 
 Podemos concluir que en el presente deber se puso en practica todo lo aprendido sobre las reactancias con respecto a circuitos RLC, ademas se estudio las resonancias las cuales
